@@ -1,5 +1,4 @@
 <h2>Olá! Eu sou o Albert Soares.</h2>
-<h3 align="center">😄 Bem vindo!</h3>
 
 <div align="center">
   <a href="https://github.com/Albert5a">
