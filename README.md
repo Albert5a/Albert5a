@@ -1,6 +1,6 @@
-<h2>Olá! Eu sou o Albert Soares.</h2>
-<p>Tenho interesse pelas áreas de Ciência de Dados, Machine Learning, ecossistema Python e Mercado Financeiro.</p>
-<p>Atualmente também estudo front-end React e back-end Python na EBAC (Escola Britânica de Artes Criativas) e Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.</p>
+<h3>Olá! Eu sou o Albert Soares.</h3>
+<p>Atualmente estudo front-end React, back-end Python na EBAC (Escola Britânica de Artes Criativas) e Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.</p>
+<p>Também tenho interesse pelas áreas de Ciência de Dados, Machine Learning, ecossistema Python e Mercado Financeiro.</p>
 
 <div align="center">
   <a href="https://github.com/Albert5a">
