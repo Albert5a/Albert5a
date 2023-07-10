@@ -1,6 +1,7 @@
 <h3>Olá! Eu sou o Albert Soares.</h3>
 <p>Desenvolvedor Front-end React</p>
-<p>Também tenho interesse pelo ecossistema Python.</p>
+<p>Após atuar por sete anos como Auxiliar Administrativo lidando diretamente com clientes, funcionários, fornecedores, desenvolvendo significativamente habilidades para lidar com pessoas, focar no cliente, solucionar problemas e ser proativo, decidi conhecer o mundo da Tecnologia através da Lógica de Programação e acabei me interessando pelo desenvolvimento front-end, onde venho aprofundando meus conhecimentos em HTML, CSS, Jquery, Bootstrap, React, StyledComponents, Redux, Git e Metodologia Ágil Scrum.
+Sou autodidata com boa comunicação, vontade de aprender novas tecnologias e compartilhar conhecimento.</p>
 
 <div align="center">
   <a href="https://github.com/Albert5a">
